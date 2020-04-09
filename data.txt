@@ -1,0 +1,7 @@
+create table login
+(firstname varchar(10),
+lastname varchar(10),
+username varchar(10),
+password varchar(10),
+address varchar(10),
+contactno varchar(10));
